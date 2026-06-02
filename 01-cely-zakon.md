@@ -18,6 +18,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [24 Cdo 3538/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C85677B3BF8339C1C1258C510052BB92?openDocument) — 26. 2. 2025, kat. A
+  > „Státní zastupitelství, které vstoupilo do detenčního řízení (§ 35 odst. 1 o. s. ř. a § 8 odst. 1 písm. g/ z. ř. s.) je oprávněno podat odvolání proti rozhodnutí vydanému v takovém řízení za stejných podmínek, jako kterýkoliv jiný účastník řízení, a to ve prospěch i v neprospěch umístěného. Jiný účastník detenčního řízení nemůže podávat opravné prostředky ve prospěch státního zastupitelství zúčastněného na řízení. Nebyla-li účast státního zastupitelství v detenčním řízení ukončena před pravomocným skončením odvolacího řízení, jedná s ním Nejvyšší soud i v dovolacím řízení. Pokračovat v detenčním řízení, které bylo zastaveno proto, že umístěný (člověk) byl ze zdravotního ústavu propuštěn nebo dodatečně písemně souhlasil se svým umístěním (§ 72 z. ř. s.), lze jen z podnětu prohlášení umístěného, že trvá na pokračování v řízení, učiněného do 2 týdnů od doručení usnesení o zastavení řízení…"
+
 #### Konstitutivní povaha § 1 odst. 1 — zrušení prokuratury a ustavení státního zastupitelství
 
 Odst. 1 obsahuje **konstitutivní normu**: zákon státní zastupitelství „zřizuje". Jde o jednu z klíčových reformních norem polistopadové éry, jíž se Česká republika rozešla s monokratickým, hierarchicky podřízeným modelem **prokuratury** podle zákona č. 60/1965 Sb. (zrušeným v § 45 ZSZ) a přijala kontinentální model **státního zastupitelství** zakotvený v moci výkonné, avšak vybavený funkční nezávislostí. Zatímco generální prokurátor byl podle čl. 102 socialistické ústavy z roku 1960 odpovědný Federálnímu shromáždění a vystupoval jako „strážce socialistické zákonnosti" s širokou dozorovou pravomocí (tzv. **všeobecný dozor**), nový orgán je definován funkčně jako **zástupce státu při ochraně veřejného zájmu** ve věcech, jež mu **zákon svěří**. Výchozí ústavní rámec poskytuje **čl. 80 Ústavy ČR**: SZ je orgánem veřejné žaloby v trestním řízení a vykonává další úkoly, stanoví-li tak zákon.
@@ -313,6 +318,11 @@ NSZ, VSZ a KSZ jsou **účetními jednotkami** ve smyslu zákona o účetnictví
 - (iii) **garance dostupnosti** — pro účastníky řízení.
 
 Příslušnost SZ k zastupování státu (odst. 2) je odvozena od příslušnosti **soudu** — místně i věcně. Zvláštní zákony však mohou stanovit **odchylky**: typicky speciální působnost VSZ v některých korupčních a hospodářských věcech (vyhláška č. 23/1994 Sb., § 15 — zvláštní působnost VSZ Praha pro některé „elitní" trestné činy s celostátním dopadem); působnost NSZ ve věcech mimořádných opravných prostředků; výlučná působnost MSZ Brno v některých extradičních věcech.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [5 Tdo 150/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/851524C03AC03C66C1257A4E0064FFE4?openDocument) — 23. 4. 2008, kat. A
+  > „Podle § 7 odst. 2 zák. č. 283/1993 Sb., o státním zastupitelství, ve znění pozdějších předpisů, je státní zastupitelství příslušné k zastupování státu u soudu, u něhož toto státní zastupitelství působí, pokud zvláštní právní předpis nestanoví jinak. Takovou výjimku výslovně stanoví ustanovení § 179 odst. 1 tr. ř., podle kterého je k podání obžaloby a k jejímu zastupování před soudem příslušný státní zástupce vyššího státního zastupitelství, než které u soudu působí, pokud vykonával dozor nad zachováním zákonnosti v přípravném řízení a věc nepředal nižšímu státnímu zastupitelství. Výjimka podle § 179 odst. 1 tr. ř. se uplatní i v případě odnětí věci a jejího přikázání podle § 25 tr. ř. mimo obvod soudu, u něhož státní zastupitelství působí. Proto státní zástupce vyššího státního zastupitelství, který podal obžalobu na základě oprávnění vyplývajícího z ustanovení v § 179 odst. 1 tr. ř.…"
 
 ---
 
@@ -2221,6 +2231,11 @@ Odst. 2 zmocňuje ministerstvo k **úpravě sídel, obvodů, poboček a speciali
 - Obecně: případy, kdy zvláštní zákon omezuje volnost převodu (např. zákazy nabytí cizinci, omezení pro územní samosprávu, předkupní práva atd.).
 
 Smyslem je ochrana **veřejného zájmu** na zákonnosti vlastnických přesunů — jde o **klasický příklad civilní působnosti SZ**, kde nejde o ochranu konkrétního účastníka, ale o ochranu zákonnosti samé.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 999/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/25642E5064077A53C1257EC70030DD4B?openDocument) — 1. 7. 2015, kat. A
+  > „Státní zastupitelství je legitimováno podle § 42 zákona č. 283/1993 Sb., o státním zastupitelství, ve znění pozdějších předpisů, k podání žaloby o určení neplatnosti smlouvy o převodu obecního nemovitého majetku, kterou za převádějící obec při absenci předchozího rozhodnutí zastupitelstva obce uzavřel starosta obce"
 
 ---
 
