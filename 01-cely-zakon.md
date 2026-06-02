@@ -1111,7 +1111,35 @@ Toto ustanovení je v praxi citlivé: ministr nesmí prostřednictvím dotazů n
 
 > **§ 13d**
 >
-> *Ministerstvo vykonává správu státního zastupitelství tím, že [...]*
+> *Ministerstvo vykonává správu státního zastupitelství tím, že*
+>
+> *- a) zajišťuje chod státních zastupitelství po stránce organizační, zejména stanoví s ohledem na množství vyřizovaných věcí počty státních zástupců, vyšších úředníků a odborných a dalších zaměstnanců státních zastupitelství; u Nejvyššího státního zastupitelství je stanoví v dohodě s nejvyšším státním zástupcem,*
+>
+> *- b) zajišťuje způsobem stanoveným tímto zákonem chod státních zastupitelství po stránce personální,*
+>
+> *- c) zajišťuje chod státních zastupitelství tím, že zabezpečuje financování jejich hospodaření a materiálního zabezpečení v rozsahu stanoveném zvláštními právními předpisy a provádí kontroly hospodaření,4c)*
+>
+> *- d) stanoví krajským státním zastupitelstvím v rámci schváleného rozpočtu kapitoly prostředky státního rozpočtu určené na hospodaření krajského státního zastupitelství a okresních státních zastupitelství v jeho obvodu minimálně v rozsahu členění závazných ukazatelů daných zákonem o státním rozpočtu,*
+>
+> *- e) organizuje, řídí a kontroluje výkon správy státních zastupitelství prováděný vedoucími státními zástupci,*
+>
+> *- f) vyřizuje stížnosti podané podle tohoto zákona na postup státního zastupitelství (dále jen „stížnosti“),*
+>
+> *- g) stanoví metodiku výběru právních čekatelů a metodicky řídí jejich přijímání do pracovního poměru,*
+>
+> *- h) řídí a organizuje čekatelskou praxi, zejména stanoví pro každé krajské státní zastupitelství počty právních čekatelů a rozhoduje o započtení doby jiné právnické činnosti do čekatelské praxe,*
+>
+> *- i) organizuje a zajišťuje odborné závěrečné zkoušky státních zástupců (dále jen „závěrečná zkouška“),*
+>
+> *- j) organizuje a řídí odborné vzdělávání vyšších úředníků a ostatních zaměstnanců státních zastupitelství,*
+>
+> *- k) sleduje chod kanceláří státních zastupitelství,*
+>
+> *- l) organizuje, metodicky řídí a kontroluje zabezpečení úkolů obranného a civilního nouzového plánování, ochrany utajovaných informací, bezpečnosti osob a majetku, požární ochrany a úkolů bezpečnosti a ochrany zdraví při práci (dále jen „úkoly krizového řízení a bezpečnosti“),*
+>
+> *- m) usměrňuje a řídí využívání informačních technologií,*
+>
+> *- n) plní další úkoly při výkonu správy státního zastupitelství vyplývající z právních předpisů.*
 
 § 13d obsahuje **katalog úkolů ministerstva** (14 písm. a–n): organizační zajištění (vč. počtů státních zástupců, vyšších úředníků a dalších zaměstnanců — u NSZ v dohodě s NSZ), personální zajištění, finanční zajištění a kontroly hospodaření, rozepisování rozpočtu na KSZ, řízení a kontrola výkonu správy, vyřizování stížností, metodika čekatelů, organizace závěrečné zkoušky, vzdělávání vyšších úředníků, sledování kanceláří, krizové řízení a bezpečnost, využívání IT, další úkoly. Tento výčet je **demonstrativní** (písm. n je catch-all).
 
