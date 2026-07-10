@@ -22,6 +22,10 @@
 ## Vazby
 [Ústava 1/1993](/home/vojtech/Komentar-Ustava-Listina-1-2-1993/) Čl. 80, [TŘ 141/1961](/home/vojtech/Komentar-TR-141-1961/) § 174, [OSŘ 99/1963](/home/vojtech/Komentar-OSR-99-1963/) § 35, [SŘS 150/2002](/home/vojtech/Komentar-SRS-150-2002/) (kárný senát NSS).
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
