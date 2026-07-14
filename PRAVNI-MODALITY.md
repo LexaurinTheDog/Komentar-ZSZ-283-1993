@@ -138,3 +138,140 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | jmenuje; rozhodne | [§ 9](https://e-sbirka.gov.cz/sb/1993/283#par_9); [§ 9b](https://e-sbirka.gov.cz/sb/1993/283#par_9b); [§ 10](https://e-sbirka.gov.cz/sb/1993/283#par_10); [§ 10a](https://e-sbirka.gov.cz/sb/1993/283#par_10a); [§ 10b](https://e-sbirka.gov.cz/sb/1993/283#par_10b) |
 | Oprávnění a povinnost | je oprávněn; jsou povinni; mají právo | [§ 9b](https://e-sbirka.gov.cz/sb/1993/283#par_9b); [§ 12](https://e-sbirka.gov.cz/sb/1993/283#par_12); [§ 12e](https://e-sbirka.gov.cz/sb/1993/283#par_12e); [§ 14](https://e-sbirka.gov.cz/sb/1993/283#par_14) |
 | Domněnky, fikce a účinkové konstrukce | nenalezen spolehlivý signál | — |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 283/1993 Sb., o státním zastupitelství (ZSZ) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality jsou způsoby, jimiž norma spojuje s určitým jednáním svou normativní kvalifikaci. Nauka rozlišuje **objektivní modality** — příkaz (velící normy), zákaz (zapovídající normy) a dovolení (dovolující normy) — jimiž zákonodárce z pohledu objektivního práva stanoví, co má, co nesmí a co může nastat. Deonticky jsou navzájem převoditelné (příkaz konat = zákaz nekonat; dovolení = negace zákazu), avšak v textu zákona se projevují odlišnými normativními výrazy („je povinen", „nesmí", „může"), jejichž volba nese samostatný výkladový význam. Zvláštní skupinou objektivních modalit jsou **kompetenční (zmocňovací) normy**, které nezakládají povinnost ani pouhé dovolení soukromé osoby, nýbrž zřizují a vymezují pravomoc orgánu veřejné moci; jejich adresát pravomoc nejen „smí", ale zpravidla je povinen ji v mezích zákona vykonávat (vázaná působnost). U státního zastupitelství jsou kompetenční normy dominantní, neboť celý předpis konstruuje soustavu orgánů a rozděluje mezi ně působnost a dohledová oprávnění.
+
+**Subjektivní modality** popisují postavení konkrétního subjektu v právním vztahu: oprávnění (subjektivní právo) a povinnost. Obě stojí v poměru **korelativity** — oprávnění jednoho subjektu odpovídá povinnost subjektu druhého (nároku osoby předvolané k vysvětlení na náhradu výdajů odpovídá povinnost státu ji poskytnout; oprávnění nadřízeného vydat pokyn odpovídá povinnost podřízeného se jím řídit). Právě korelativní čtení odhaluje, že tentýž institut lze popsat z obou stran modálního vztahu.
+
+**Normativní výrazy** jsou jazykové ukazatele modality. Příkaz signalizují obraty „je povinen / jsou povinni", „musí"; zákaz „nesmí"; dovolení a mnohá zmocnění „může"; kompetenci též indikativ výkonového slovesa („jmenuje vláda", „vydává"). Tentýž výraz „může" přitom v jednom kontextu vyjadřuje pouhé dovolení, v jiném kompetenci s prostorem pro uvážení — rozlišení plyne z povahy adresáta a systematiky.
+
+**Domněnky a fikce** jsou nástroje právní techniky pracující s tím, co se „považuje za" existující. Domněnka vyvratitelná (praesumptio iuris) přesouvá důkazní břemeno a připouští důkaz opaku; domněnka nevyvratitelná (praesumptio iuris et de iure) důkaz opaku vylučuje. **Fikce** jde dále — prohlašuje za právně existující něco, o čem se ví, že tomu tak fakticky není (typicky ztotožnění úkonu jednotlivce s úkonem instituce). Ani domněnka, ani fikce nezakládají samostatné jednání; modifikují právní následky jiných skutečností.
+
+### Příkaz (velící normy)
+
+Příkaz ukládá adresátovi povinnost konat určitým způsobem; jeho normativním výrazem jsou v ZSZ obraty „jsou povinny" a „je každý povinen". Charakteristické je, že příkaz zde míří vně soustavy státního zastupitelství — zavazuje třetí osoby a jiné orgány k součinnosti a strpění zjišťovací činnosti. Tím se příkaz odlišuje od povinností služebních (viz níže sekce Oprávnění a povinnost), které dopadají na státní zástupce uvnitř soustavy.
+
+Velící normy tvoří protiváhu absence procesních donucovacích nástrojů: aby státní zastupitelství mohlo mimo trestní řízení plnit svou působnost, ukládá zákon adresátům povinnost dostavit se, podat vysvětlení a zapůjčit spisy. Bez korelativní donucovací pravomoci (viz zmocnění k pořádkové pokutě) by ovšem příkaz zůstal nevynutitelný — proto zákon obě modality systematicky spojuje.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 14 odst. 1 | jsou povinny zapůjčovat | „jsou povinny státnímu zastupitelství při výkonu jeho působnosti v konkrétní věci bez průtahů zapůjčovat spisy a doklady" | Povinnost orgánů veřejné moci poskytovat součinnost zapůjčováním spisů a dokladů. |
+| § 15 odst. 1 | je každý povinen dostavit se | „je každý povinen dostavit se na výzvu ke státnímu zastupitelství a podat zde potřebné vysvětlení" | Obecná povinnost dostavit se a podat vysvětlení jako nástroj vlastní zjišťovací činnosti. |
+
+### Zákaz (zapovídající normy)
+
+Zákaz zapovídá určité jednání; jediným ryzím reprezentantem v jádru předpisu je zákaz vnějších zásahů do činnosti státních zástupců, vyjádřený výrazem „nesmí". Tato zapovídající norma je nosníkem funkční nezávislosti soustavy: chrání monopol státních zástupců na výkon svěřené působnosti a vylučuje, aby je jiné orgány nebo osoby při výkonu nahrazovaly či zastupovaly.
+
+Zákaz má povahu adresovanou navenek (zapovídá zásah jiným orgánům a osobám) a současně odpovídá vnitřní povinnosti státního zástupce takový zásah aktivně odmítnout (§ 24 odst. 1). Judikatura přitom zdůrazňuje, že nezávislost státního zástupce není totožná s nezávislostí soudce — je oslabena prvky hierarchické nadřízenosti a instančního dohledu, které zákon do soustavy záměrně vestavěl.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 3 odst. 1 | nesmí | „jiné orgány nebo osoby nesmí do jejich činnosti zasahovat nebo je při jejím výkonu nahrazovat anebo zastupovat" | Zákaz jakékoli vnější ingerence do výkonu působnosti státních zástupců. |
+
+Kde sedí — judikatorní ilustrace k hranici mezi zákazem vnějších zásahů a vestavěným dohledem:
+
+- *ÚS* [IV.ÚS 3627/12](judikatura/US-IV-S-3627-12.md) — usnesení, 27. 11. 2012
+  > „přetrvávají rovněž prvky od soudní moci jej odlišující, jimiž jsou například prvky nadřízenosti či instančního dohledu v ustanovení § 11a, § 12, § 12c, § 12d, § 12e zákona č. 283/1993 Sb., o státním zastupitelství"
+
+### Dovolení (dovolující normy)
+
+Dovolení opravňuje adresáta k jednání, aniž mu je ukládá; výrazem je „může". V ZSZ se ryzí dovolení objevuje tam, kde zákon svěřuje orgánu prostor pro uvážení, zda vůbec institut použije — typicky u odvolání nejvyššího státního zástupce vládou. I zde je však dovolení sešněrováno: „může" neznamená libovůli, nýbrž možnost jednat jen z kvalifikovaných, zákonem vymezených důvodů, což dovolení přibližuje diskrečnímu, avšak vázanému oprávnění.
+
+Hranice mezi dovolením a kompetencí je v předpisu prostupná: řada „může-norem" zakládá zároveň pravomoc orgánu (viz sekce Zmocnění). Rozlišujícím kritériem je, zda výraz „může" jen připouští jednání jinak povinného, či zřizuje samu pravomoc, kterou by orgán jinak neměl.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 9 odst. 6 | může odvolat | „Vláda může na návrh ministra spravedlnosti odvolat nejvyššího státního zástupce z funkce" | Možnost vlády odvolat nejvyššího státního zástupce, avšak jen z kvalifikovaných zákonem vymezených důvodů. |
+
+Kde sedí — judikatura k fakultativní povaze „může-norem" (mimořádné a fakultativní oprávnění nezakládající nárok):
+
+- *ÚS* [II.ÚS 294/03](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-294-03) — usnesení, 26. 2. 2004
+  > „na provedení kontroly skončené věci neexistuje právní nárok, neboť ve smyslu § 12 odst. 3 zákona č. 283/1993 Sb., o státním zastupitelství, ve znění pozdějších předpisů, se jedná o mimořádné a fakultativní oprávnění nejvyššího státního zástupce"
+
+### Zmocnění (kompetenční normy)
+
+Zmocnění je jádrem normativní stavby ZSZ: kompetenční normy zřizují orgány soustavy a rozdělují mezi ně pravomoci — jmenovací, normotvornou i donucovací. Na rozdíl od dovolení soukromé osoby je výkon svěřené kompetence zpravidla vázán: orgán ji smí a současně má vykonávat v mezích a k účelu, k nimž byla zřízena. Normativní výraz kolísá mezi indikativem výkonového slovesa („jmenuje vláda") a modálním „může vydávat / může uložit".
+
+Zvláštní postavení má **normotvorná kompetence** nejvyššího státního zástupce vydávat pokyny obecné povahy — zakládá pravomoc jednostranně sjednocovat postup celé soustavy závaznými akty. Judikatura ji přitom kvalifikuje jako interní akt řízení, který zavazuje uvnitř soustavy, avšak nezakládá práva ani povinnosti třetích osob. Vedle toho stojí **donucovací kompetence** (pořádková pokuta, předvedení), jež teprve činí vynutitelnými příkazy k součinnosti a vysvětlení.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 9 odst. 1 | jmenuje vláda | „Nejvyššího státního zástupce jmenuje vláda na návrh ministra spravedlnosti na funkční období 7 let." | Pravomoc vlády jmenovat nejvyššího státního zástupce na pevné funkční období. |
+| § 12 odst. 1 | může vydávat pokyny obecné povahy | „může nejvyšší státní zástupce vydávat pokyny obecné povahy; tyto pokyny jsou závazné pro státní zástupce" | Normotvorná pravomoc sjednocovat postup soustavy závaznými pokyny obecné povahy. |
+| § 16 odst. 1 | může uložit pořádkovou pokutu | „může státní zastupitelství uložit pořádkovou pokutu až do výše 50 000 Kč, popřípadě může nařídit jeho předvedení" | Donucovací pravomoc sankcionovat neuposlechnutí výzvy pořádkovou pokutou či předvedením. |
+
+Kde sedí — judikatorní ilustrace ke třem typům svěřených kompetencí:
+
+- *ÚS* [III.ÚS 868/06](judikatura/US-III-S-868-06.md) — usnesení, 25. 7. 2007
+  > „Podle § 12 odst. 1 zákona č. 283/1993 Sb., o státním zastupitelství, ve znění pozdějších předpisů, patří mezi oprávnění nejvyššího státního zástupce vydávat pokyny obecné povahy ke sjednocení a usměrnění postupu státních zástupců při výkonu působnosti státního zastupitelství"
+- *NSS* [8 A 98/2021 - 76](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/699165) — rozsudek, 16.02.2022
+  > „V zákoně není podmínka, že nejvyšší státní zástupce musí pocházet z řad státních zástupců"
+- *ÚS* [II.ÚS 385/05](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-385-05) — usnesení, 16. 8. 2005
+  > „Takové oprávnění přísluší dle ustanovení § 9 odst. 2 zákona č. 283/1993 Sb., o státním zastupitelství, toliko ministru spravedlnosti"
+
+### Oprávnění a povinnost (subjektivní modality — korelativita)
+
+Tato sekce spojuje obě subjektivní modality, neboť v předpisu stojí v korelativním poměru. Na jedné straně ukládá zákon státnímu zastupitelství i jednotlivým státním zástupcům **povinnosti** — vázanost zákonem („je povinno využívat prostředky, které mu poskytuje zákon"), podřízenost pokynům vedoucího s pojistkou odmítnout pokyn odporující zákonu, a osobní povinnost aktivně odmítnout vnější zásah („musí odmítnout"). Na straně druhé přiznává **oprávnění** — subjektivní nárok osoby předvolané k vysvětlení na náhradu výdajů („má nárok na náhradu").
+
+Korelativní čtení je zde názorné: povinnost státního zástupce řídit se pokyny odpovídá oprávnění vedoucího pokyn vydat; nároku předvolané osoby na náhradu odpovídá povinnost státu ji uhradit. Zvláštní pojistkou je vnitřní hranice povinnosti poslušnosti — povinnost řídit se pokyny neplatí bezvýjimečně, nýbrž ustupuje tam, kde by pokyn byl v konkrétní věci v rozporu se zákonem, čímž se povinnost podřízenosti setkává se zákazem protiprávního jednání.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 2 odst. 1 | je povinno | „Státní zastupitelství je při výkonu své působnosti povinno využívat prostředky, které mu poskytuje zákon." | Vázanost státního zastupitelství zákonem — smí užívat jen prostředky, které mu zákon výslovně poskytuje. |
+| § 12e odst. 2 | jsou povinni řídit se | „Státní zástupci jsou povinni řídit se pokyny vedoucího státního zástupce nebo jím pověřeného státního zástupce, s výjimkou pokynu, který je v konkrétní věci v rozporu se zákonem." | Podřízenost pokynům vedoucího s pojistkou povinnosti odmítnout pokyn odporující zákonu. |
+| § 24 odst. 1 | musí odmítnout | „Jakýkoli vnější zásah nebo jiný vliv, jehož důsledkem by mohlo být porušení některé z těchto povinností, musí odmítnout." | Osobní povinnost aktivně odmítnout vnější zásah ohrožující řádný a nestranný výkon funkce. |
+| § 15 odst. 4 | má nárok na náhradu | „Kdo se dostaví na výzvu podle odstavce 1, má nárok na náhradu výdajů za podmínek a ve výši stanovených právními předpisy o cestovních náhradách" | Subjektivní nárok osoby předvolané k vysvětlení na náhradu výdajů a ušlého výdělku. |
+
+Kde sedí — judikatorní ilustrace k obsahu povinností a k oprávnění (žádost o dohled jako korelát vázanosti soustavy):
+
+- *ÚS* [Pl.ÚS 17/10](judikatura/US-Pl-S-17-10.md) — nález, 28. 6. 2011
+  > „Státní zástupci jsou - na rozdíl od soudců - zákonem a slibem osobně zavázáni primárně k ochraně veřejného zájmu (§ 18 odst. 3 zákona č. 283/1993 Sb.)"
+- *ÚS* [I.ÚS 860/15](judikatura/US-I-S-860-15.md) — nález, 27. 10. 2015
+  > „patří též žádost o výkon dohledu nejbližšího vyššího státního zastupitelství podle § 12d odst. 1 zákona č. 283/1993 Sb., o státním zastupitelství, ve znění pozdějších předpisů"
+- *NSS* [30 A 137/2018 - 98](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/411387) — rozsudek, 26.11.2020
+  > „Tím porušil § 12e zákona č. 283/1993 Sb., o státním zastupitelství a na něj navazující pokyn obecné povahy ze dne 28. 3. 2017, o výkonu dohledu v soustavě státního zastupitelství, č. 1/2017 Sbírky pokynů obecné povahy nejvyššího státního zástupce"
+
+### Domněnky a fikce
+
+Předpis pracuje s technikou „považování za" v institutu ztotožnění úkonů. Podle § 23 odst. 1 jsou úkony provedené jednotlivým státním zástupcem považovány za úkony státního zastupitelství jako instituce. Jde o **právní fikci**, nikoli o vyvratitelnou domněnku: nepřipouští se důkaz opaku v tom smyslu, že by řádně provedený úkon „nebyl" úkonem instituce; osoba státního zástupce se pro účely přičtení účinků úkonu vůči státu prohlašuje za splynulou s úřadem. Praktický dosah je značný — účastníci nejednají s konkrétní fyzickou osobou, nýbrž s orgánem, a změna v osobě státního zástupce se nedotýká platnosti již provedených úkonů.
+
+Na rozdíl od domněnek, které modifikují důkazní břemeno, fikce zde slouží organizačnímu ztotožnění a zajištění kontinuity výkonu působnosti. Tím se § 23 odst. 1 systematicky pojí se zákazem vnějších zásahů (§ 3 odst. 1) i s fikcí monopolu soustavy: navenek vystupuje instituce, nikoli osoba.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 23 odst. 1 | jsou považovány za | „jím provedené úkony jsou považovány za úkony státního zastupitelství" | Právní fikce ztotožňující úkony jednotlivého státního zástupce s úkony státního zastupitelství jako instituce. |
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Modality v ZSZ nestojí izolovaně; klíčové instituty vznikají teprve jejich kombinací (kotveno výhradně na položky klasifikace).
+
+- **Nezávislost jako svazek zákazu, povinnosti a povinnosti vázanosti zákonem.** Funkční nezávislost soustavy je konstruována trojicí: objektivním *zákazem* vnějších zásahů adresovaným navenek (§ 3 odst. 1, „nesmí"), osobní *povinností* státního zástupce zásah aktivně odmítnout (§ 24 odst. 1, „musí odmítnout") a *povinností* státního zastupitelství užívat jen zákonné prostředky (§ 2 odst. 1, „je povinno"). Zákaz a povinnost zde tvoří rub a líc téhož principu.
+
+- **Zjišťovací činnost = příkaz vynucený zmocněním.** Sama *velící norma* ukládající součinnost a vysvětlení (§ 14 odst. 1 „jsou povinny zapůjčovat"; § 15 odst. 1 „je každý povinen dostavit se") by byla bezzubá bez korelativního *zmocnění* k donucení (§ 16 odst. 1 „může uložit pořádkovou pokutu"). Příkaz a donucovací kompetence jsou proto vždy čteny společně, doplněny *oprávněním* předvolané osoby na náhradu (§ 15 odst. 4 „má nárok na náhradu").
+
+- **Řízení soustavy = zmocnění plus povinnost poslušnosti s vestavěnou pojistkou.** Normotvorná *kompetence* nejvyššího státního zástupce (§ 12 odst. 1 „může vydávat pokyny obecné povahy") se v každodenním provozu doplňuje s *povinností* podřízených řídit se pokyny vedoucího (§ 12e odst. 2 „jsou povinni řídit se"). Tato povinnost je však zákonem sešněrována výjimkou pro pokyn odporující zákonu — poslušnost ustupuje zákonnosti.
+
+- **Personální kompetence a jejich asymetrie.** *Zmocnění* ke jmenování (§ 9 odst. 1 „jmenuje vláda") a *dovolení* k odvolání (§ 9 odst. 6 „může odvolat") tvoří dvojici, v níž je odvolání záměrně vázáno na kvalifikované důvody — jinak souměrná pravomoc jmenovat a odvolávat je asymetricky omezena ve prospěch stability funkce.
+
+- **Fikce jako střecha nad všemi kompetencemi.** *Fikce* ztotožnění úkonů (§ 23 odst. 1 „jsou považovány za") propojuje všechny výše uvedené modality: ať už jde o výkon kompetence, plnění povinnosti či uplatnění oprávnění, účinky se přičítají instituci, nikoli osobě.
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+| --- | --- | --- |
+| Příkaz | jsou povinny, je každý povinen dostavit se | § 14 odst. 1; § 15 odst. 1 |
+| Zákaz | nesmí | § 3 odst. 1 |
+| Dovolení | může (odvolat) | § 9 odst. 6 |
+| Zmocnění (kompetence) | jmenuje vláda; může vydávat pokyny obecné povahy; může uložit pořádkovou pokutu | § 9 odst. 1; § 12 odst. 1; § 16 odst. 1 |
+| Oprávnění | má nárok na náhradu | § 15 odst. 4 |
+| Povinnost | je povinno; jsou povinni řídit se; musí odmítnout | § 2 odst. 1; § 12e odst. 2; § 24 odst. 1 |
+| Domněnka / fikce | jsou považovány za | § 23 odst. 1 |
